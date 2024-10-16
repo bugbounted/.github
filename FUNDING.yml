@@ -1,5 +1,5 @@
 # Custom funding links
-custom:
-  - https://example.com/donate?text=Support+my+work+by+buying+me+a+coffee+☕
-  - https://example.com/patreon?text=Become+a+patron+and+get+exclusive+content+🎉
-  - https://paypal.me/yourusername?text=Donate+via+PayPal
+custom: 
+  - https://www.buymeacoffee.com/yourusername # Buy Me a Coffee
+  - https://paypal.me/yourusername # PayPal
+  - https://linktr.ee/yourusername # Linktree for multiple custom links
