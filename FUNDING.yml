@@ -1,7 +1,8 @@
-custom:
-  - url: "https://yekpay.io/en/bugbounted"
-    tag: "YekPay"
-  - url: "https://zarinp.al/bugbounted"
-    tag: "Zarinpal"
-  - url: "https://paylink.payment4.com/fa/bugbounted/86e57a1a-9f5d-4c9e-af0f-1838a00c2655"
-    tag: "Paylink"
+github:
+  funding:
+    - type: "custom"
+      url: "https://yekpay.io/en/bugbounted"
+    - type: "custom"
+      url: "https://zarinp.al/bugbounted"
+    - type: "custom"
+      url: "https://paylink.payment4.com/fa/bugbounted/86e57a1a-9f5d-4c9e-af0f-1838a00c2655"
