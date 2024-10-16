@@ -1,5 +1,3 @@
-# Custom funding links
-custom: 
-  - https://www.buymeacoffee.com/yourusername # Buy Me a Coffee
-  - https://paypal.me/yourusername # PayPal
-  - https://linktr.ee/yourusername # Linktree for multiple custom links
+"[https://example.com/buy-me-coffee](https://example.com/buy-me-coffee)" (redirects to your Buy Me a Coffee page)
+"[https://example.com/become-patron](https://example.com/become-patron)" (redirects to your Patreon page)
+"[https://example.com/one-time-donation](https://example.com/one-time-donation)" (redirects to your PayPal donation page)
