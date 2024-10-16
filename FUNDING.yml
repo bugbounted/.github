@@ -1,1 +1,11 @@
-custom: ["https://yekpay.io/en/bugbounted", "https://zarinp.al/bugbounted"]
+custom: ["https://yekpay.io/en/bugbounted", "https://zarinp.al/bugbounted", "https://paylink.payment4.com/fa/bugbounted/86e57a1a-9f5d-4c9e-af0f-1838a00c2655"]
+
+
+github:
+  funding:
+    - type: "credit card"
+      url: "https://yekpay.io/en/bugbounted"
+    - type: "Iranian"
+      url: "https://zarinp.al/bugbounted"
+    - type: "crypto"
+      url: "https://paylink.payment4.com/fa/bugbounted/86e57a1a-9f5d-4c9e-af0f-1838a00c2655"
